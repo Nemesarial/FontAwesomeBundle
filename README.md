@@ -62,6 +62,6 @@ Use the ``--symlink`` attribute to create links rather than copies of the resour
 
 # References
 
-[Font Awesome](http://fortawesome.github.com/Font-Awesome/)
-[Bootstrap](http://twitter.github.com/bootstrap/): Only for devs
-[Symfony](http://symfony.com/)
+* [Font Awesome](http://fortawesome.github.com/Font-Awesome/)
+* [Bootstrap](http://twitter.github.com/bootstrap/)
+* [Symfony](http://symfony.com/)

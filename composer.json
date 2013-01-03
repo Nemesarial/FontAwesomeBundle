@@ -1,0 +1,23 @@
+{
+    "name": "ql/fontawesome-bundle",
+    "type": "symfony-bundle",
+    "description": "FontAwesome 3.0 Bundle for Symfony2",
+    "keywords": ["webfonts", "typography", "css", "bundle"],
+    "homepage": "https://github.com/quiche/QlFontAwesomeBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Quetto",
+            "email": "eric.quetto@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": ">=2.1,<2.3-dev"
+    },
+    "autoload": {
+        "psr-0": { "Ql\\FontAwesomeBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "Ql/FontAwesomeBundle"
+}

@@ -4,7 +4,7 @@
     "description": "FontAwesome 3.0 Bundle for Symfony2",
     "keywords": ["webfonts", "typography", "css", "bundle"],
     "homepage": "https://github.com/quiche/QlFontAwesomeBundle",
-    "license": "MIT",
+    "license": ["MIT", "CC BY 3.0"],
     "authors": [
         {
             "name": "Eric Quetto",

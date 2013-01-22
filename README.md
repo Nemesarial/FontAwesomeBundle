@@ -3,7 +3,7 @@ QlFontAwesomeBundle - Font Awesome for Symfony2
 
 ### Current Version
 
-**Font Awesome 3.0** - Created & Maintained by Dave Gandy
+**Font Awesome 3.0.2** - Created & Maintained by Dave Gandy
 
 ## Installation
 

@@ -4,3 +4,5 @@ Resources/doc/_build/*
 nbproject
 composer.lock
 vendor
+
+.DS_Store

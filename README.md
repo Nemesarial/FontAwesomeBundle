@@ -1,9 +1,9 @@
-QlFontAwesomeBundle - Font Awesome for Symfony2
+NemFontAwesomeBundle - Font Awesome for Symfony2
 ===============================================
 
 ### Current Version
 
-**Font Awesome 3.0.2** - Created & Maintained by Dave Gandy
+**Font Awesome 3.1.1** - Created & Maintained by Dave Gandy
 
 ## Installation
 
@@ -15,7 +15,7 @@ QlFontAwesomeBundle - Font Awesome for Symfony2
 {
     "require": {
 		// ...
-        "ql/fontawesome-bundle": "*"
+        "nemesarial/fontawesome-bundle": "*"
     }
 }
 ```
@@ -29,7 +29,7 @@ public function registerBundles()
 {
     $bundles = array(
         // ...
-        new Ql\FontAwesomeBundle\QlFontAwesomeBundle(),
+        new Nemesarial\FontAwesomeBundle\QlFontAwesomeBundle(),
         // ...
     );
 }
@@ -38,7 +38,7 @@ public function registerBundles()
 ### Download the bundle using Composer and Install assets
 
 ``` bash
-$ php composer.phar update ql/fontawesome-bundle
+$ php composer.phar update nemesarial/fontawesome-bundle
 $ php app/console assets:install --symlink web
 ```
 Use the ``--symlink`` attribute to create links rather than copies of the resources
@@ -51,7 +51,6 @@ Use the ``--symlink`` attribute to create links rather than copies of the resour
 
 ``` html
 <link rel="stylesheet" type="text/css" href="{{ asset('..Your/Bootstrap/css..') }}" />
-
 <link rel="stylesheet" type="text/css" href="{{ asset('bundles/qlfontawesome/css/font-awesome.min.css') }}" />
 ```
 

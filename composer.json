@@ -9,6 +9,10 @@
         {
             "name": "Eric Quetto",
             "email": "eric.quetto@gmail.com"
+        },
+        {
+            "name": "Mark Holtzhausen",
+            "email": "nemesarial@gmail.com"
         }
     ],
     "require": {
@@ -16,7 +20,7 @@
         "symfony/framework-bundle": ">=2.1,<2.4"
     },
     "autoload": {
-        "psr-0": { "Ql\\FontAwesomeBundle": "" }
+        "psr-0": { "Nemesarial\\FontAwesomeBundle": "" }
     },
     "minimum-stability": "dev",
     "target-dir": "Nemesarial/FontAwesomeBundle"
